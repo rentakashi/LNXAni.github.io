@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Privacy Policy</title>
+  <style>
+    body {
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+      background: #0f1220;
+      color: #e6e8ff;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+    }
+    main {
+      max-width: 900px;
+      margin: auto;
+      padding: 2rem 1rem;
+    }
+    h1, h2 {
+      color: #6c7cff;
+    }
+    section {
+      background: #161a2e;
+      border: 1px solid #242a4a;
+      border-radius: 12px;
+      padding: 2rem;
+    }
+    ul {
+      padding-left: 1.2rem;
+    }
+    footer {
+      text-align: center;
+      margin-top: 2rem;
+      color: #aab0ff;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <section>
+      <h1>Privacy Policy</h1>
+
+      <p>
+        This Privacy Policy explains how <strong>【LNX】・Ani</strong> (“【LNX】・Ani#4315”)
+        collects, uses, and protects data when used on Discord.
+      </p>
+
+      <h2>Information We Collect</h2>
+      <ul>
+        <li>Discord user IDs, server IDs, and channel IDs</li>
+        <li>Message content only when required to process commands</li>
+        <li>Basic usage statistics (command usage, interactions)</li>
+      </ul>
+
+      <h2>How We Use Data</h2>
+      <ul>
+        <li>To provide and operate bot features</li>
+        <li>To improve stability and performance</li>
+        <li>To respond to commands and interactions</li>
+      </ul>
+
+      <h2>Data Storage</h2>
+      <p>
+        Data is stored only as long as necessary. We do not sell, rent,
+        or share user data with third parties.
+      </p>
+
+      <h2>Third-Party Services</h2>
+      <p>
+        The Bot uses Discord APIs and may use third-party services.
+        These services follow their own privacy policies.
+      </p>
+
+      <h2>User Rights</h2>
+      <ul>
+        <li>You may stop data collection by removing the bot from your server</li>
+        <li>You may contact the bot owner with questions or concerns</li>
+      </ul>
+
+      <p><strong>Last updated:</strong> 12/14/25</p>
+    </section>
+
+    <footer>
+      © 【LNX】・Ani#4315
+    </footer>
+  </main>
+</body>
+</html>
